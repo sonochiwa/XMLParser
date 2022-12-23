@@ -1,4 +1,4 @@
-# XML парсер
+# РКН парсер
 XML парсер реестра инффаструктуры свзяи Российской Федерации.  
 Получить XML - https://rkn.gov.ru/opendata/7705846236-communicationInfrastructureRF/
 
